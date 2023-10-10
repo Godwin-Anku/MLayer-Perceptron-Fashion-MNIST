@@ -1,0 +1,2 @@
+# Multinomial-Classification---Multilayer-Perceptron-Fashion-MNIST-Dataset-
+A multinomial classification of class labels using multilayer perceptron neural network. The gray-scaled images are processed into vectorized form containing pixel intensities of the images which are then fed into the neural network for training, evaluation and prediction. The model is used to classify the images under multiple classes.
